@@ -3,6 +3,10 @@ node-red-heroku
 
 A wrapper for deploying [Node-RED](http://nodered.org) into the [Heroku](https://www.heroku.com).
 
+## Node-RED v2.x on Heroku
+
+forked by https://github.com/joeartsea/node-red-heroku
+
 ### Deploying Node-RED into Heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/n0bisuke/node-red-heroku)
