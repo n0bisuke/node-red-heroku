@@ -16,6 +16,11 @@
       "value": "password"
     }
   },
+  "buildpacks": [
+      {
+        "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest"
+      }
+  ],
   "addons": [
     {
       "plan": "heroku-postgresql:hobby-dev",
